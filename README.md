@@ -1,5 +1,8 @@
 # Customer-Segmentation-Using-RFM-Analysis
-Project that uses Recency Frequency and Monetary analysis to segment customers into various homogenous segments for a better understanding of the Customer Purchasing Power 
+The objective of our project is to categorize customers into various clusters to identify and predict which customers are likely to respond to promotions and for future personalization services using RFM Analysis. The RFM model is derived from three quantitative factors: -
+1. Receny: How recently a customer made a purchase
+2. Frequency: How frequently a customer makes a purchase
+3. Monetary: How much money a customer spends on purchases 
 
 We have taken the Online_Retail dataset from UCI Machine Learning (Link: https://archive.ics.uci.edu/ml/datasets/online+retail) to perform RFM analysis and Kmeans Clustering.
 
